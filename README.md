@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Easylife666666
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer science
-- 💻 I'm using ubuntu 22 LTS, debian 13, blfs 13.0, windows 10(only for specific need, I dislike windows 10/11, especially windows 11😡). Will try macOS in the future!
+- 💻 I'm using ~~ubuntu 22 LTS~~, debian 13, blfs 13.0, windows 10(only for specific need😡 ~~fuck~~).
 
 <!---
 - 💞️ I’m looking to collaborate on ...

@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning computer science & cyber security.
+- 💻 I'm using debian & windows now. Trying macos.
 <!--
 **Easylife666666/Easylife666666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
